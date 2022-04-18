@@ -1,6 +1,4 @@
 {
-	"requires": {
-		"tipi-deps/Catch2@file://single_include": { "@": "v2.x" },
-		"nlohmann/json": { "@": "v3.10.5" }
-	}
+	"x": [ "/tests", "/toml-test", "/examples", "/external" ],
+	"requires": {}
 }
